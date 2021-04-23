@@ -17,7 +17,7 @@ int countPairs1(int *arr, int len, int value) {
   } else {
   return 0;
   }
- }
+}
 
 int countPairs2(int *arr, int len, int value) {
   int rg = len - 1;
